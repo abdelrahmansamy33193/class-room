@@ -5,12 +5,12 @@ import { Star, ArrowRight } from "lucide-react";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
-import heroImage from "@/assets/hero-living-room.jpg";
-import diningImage from "@/assets/dining-collection.jpg";
-import bedroomImage from "@/assets/bedroom-collection.jpg";
-import officeImage from "@/assets/office-collection.jpg";
-import productSofa from "@/assets/product-sofa.jpg";
-import productTable from "@/assets/product-table.jpg";
+import heroImage from "@/assets/showroom-interior.jpg";
+import diningImage from "@/assets/furniture-display-1.jpg";
+import bedroomImage from "@/assets/furniture-display-2.jpg";
+import officeImage from "@/assets/furniture-display-3.jpg";
+import productSofa from "@/assets/store-front.jpg";
+import productTable from "@/assets/furniture-display-1.jpg";
 
 const Index = () => {
   const collections = [

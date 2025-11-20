@@ -4,9 +4,9 @@ import WhatsAppButton from "@/components/WhatsAppButton";
 import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { ArrowRight } from "lucide-react";
-import diningImage from "@/assets/dining-collection.jpg";
-import bedroomImage from "@/assets/bedroom-collection.jpg";
-import officeImage from "@/assets/office-collection.jpg";
+import diningImage from "@/assets/furniture-display-1.jpg";
+import bedroomImage from "@/assets/furniture-display-2.jpg";
+import officeImage from "@/assets/furniture-display-3.jpg";
 
 const Collections = () => {
   const collections = [

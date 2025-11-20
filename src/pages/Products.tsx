@@ -6,8 +6,8 @@ import { Card } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Star, Filter } from "lucide-react";
 import { Link } from "react-router-dom";
-import productSofa from "@/assets/product-sofa.jpg";
-import productTable from "@/assets/product-table.jpg";
+import productSofa from "@/assets/furniture-display-2.jpg";
+import productTable from "@/assets/furniture-display-3.jpg";
 
 const Products = () => {
   const [selectedCategory, setSelectedCategory] = useState("All");

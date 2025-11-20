@@ -18,22 +18,22 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Visit Our Showroom",
-      details: "123 Design Street, Furniture District, City 12345",
+      details: "Al-Hijrah District, Third Ring Road, Near Alsuroor Station, Makkah 21241, Saudi Arabia",
     },
     {
       icon: Phone,
       title: "Call Us",
-      details: "+1 (555) 123-4567",
+      details: "+966 56 957 0000",
     },
     {
       icon: Mail,
       title: "Email Us",
-      details: "info@classroom.com",
+      details: "info@classroomfurniture.sa",
     },
     {
       icon: Clock,
       title: "Opening Hours",
-      details: "Mon-Sat: 9:00 AM - 7:00 PM",
+      details: "Sat-Thu: 9:30 AM - 12 PM, 5 PM - 11 PM (Closed Fridays)",
     },
   ];
 
@@ -119,15 +119,15 @@ const Contact = () => {
                 <div className="space-y-2 text-sm">
                   <div className="flex items-start space-x-2">
                     <MapPin className="h-5 w-5 text-accent mt-0.5 flex-shrink-0" />
-                    <span>123 Design Street, Furniture District, City 12345</span>
+                    <span>Al-Hijrah District, Third Ring Road, Near Alsuroor Station, Makkah 21241, Saudi Arabia</span>
                   </div>
                   <div className="flex items-center space-x-2">
                     <Clock className="h-5 w-5 text-accent flex-shrink-0" />
-                    <span>Monday - Saturday: 9:00 AM - 7:00 PM</span>
+                    <span>Sat-Thu: 9:30 AM - 12 PM, 5 PM - 11 PM (Closed Fridays)</span>
                   </div>
                   <div className="flex items-center space-x-2">
                     <Phone className="h-5 w-5 text-accent flex-shrink-0" />
-                    <span>+1 (555) 123-4567</span>
+                    <span>+966 56 957 0000</span>
                   </div>
                 </div>
               </div>

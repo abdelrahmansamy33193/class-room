@@ -3,7 +3,7 @@ import Footer from "@/components/Footer";
 import WhatsAppButton from "@/components/WhatsAppButton";
 import { Card } from "@/components/ui/card";
 import { Award, Heart, Sparkles, Users } from "lucide-react";
-import heroImage from "@/assets/hero-living-room.jpg";
+import heroImage from "@/assets/showroom-interior.jpg";
 
 const About = () => {
   const values = [
